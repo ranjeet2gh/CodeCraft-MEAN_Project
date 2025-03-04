@@ -1,0 +1,6 @@
+username - ranjeet_alam
+password - 1XblPEyAT4BweZfh
+database - codofile_db
+
+link - mongodb+srv://ranjeet_alam:<password>@codofile.sdp4hsh.mongodb.net/?retryWrites=true&w=majority
+connection - mongodb+srv://ranjeet_alam:1XblPEyAT4BweZfh@codofile.sdp4hsh.mongodb.net/?retryWrites=true&w=majority

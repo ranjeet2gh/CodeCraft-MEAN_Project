@@ -1,0 +1,14 @@
+// keys not exit in /quotation/one_cost_sheet api   
+ CurrencyGlassCladding1 
+    CurrencyGlassCladding2 
+    CurrencyLocalCladding1 
+    CurrencyLocalCladding2 
+
+MaintenanceValuePercent
+TotalDirectCostPrecent
+TotalOverhead
+TotalEstimatedPercent
+TotalEstimated
+ProfitPercent
+Profit
+
